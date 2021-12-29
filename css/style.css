@@ -1450,7 +1450,6 @@ a:focus {
 }
 
 .header-style-1 .couple-logo h1, .header-style-2 .couple-logo h1 {
-  font-family: "Great Vibes", cursive;
   font-size: 35px;
   font-size: 1.94444rem;
   margin: 0;
@@ -2006,7 +2005,7 @@ a:focus {
 #0.5	footer
 --------------------------------------------------------------*/
 .site-footer {
-  background: url("../images/DUC07440.jpg") center center/cover no-repeat local;
+  background: url("../images/DUC07440.jpeg") center center/cover no-repeat local;
   text-align: center;
   color: #fff;
   padding: 160px 0;
